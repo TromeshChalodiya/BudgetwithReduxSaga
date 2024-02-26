@@ -9,7 +9,6 @@ import EntryLines from './components/EntryLines';
 import MainHeader from './components/MainHeader';
 import ModalEdit from './components/ModalEdit';
 import NewEntryForm from './components/NewEntryForm';
-// import EnhancedTable from './components/TableComponent';
 
 function App() {
   const [incomeTotal, setIncomeTotal] = useState(0);
@@ -61,7 +60,6 @@ function App() {
         <MainHeader title="Add new transaction" type="h3" />
         <NewEntryForm />
         <ModalEdit isOpen={isOpen} {...entry} />
-        {/* <EnhancedTable /> */}
       </Container>
     </div>
   );
