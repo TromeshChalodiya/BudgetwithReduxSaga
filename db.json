@@ -1,0 +1,15 @@
+{
+  "entries": [
+    {
+      "id": "f0877e18-8099-44b8-abc8-7480888d2297",
+      "description": "add new entry"
+    }
+  ],
+  "values": [
+    {
+      "id": "f0877e18-8099-44b8-abc8-7480888d2297",
+      "isExpense": true,
+      "value": "47.44"
+    }
+  ]
+}
